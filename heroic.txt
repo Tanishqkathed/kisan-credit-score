@@ -1,3 +1,10 @@
 From Last 3 days ... we try to figure out how to move with the data .. ! the main problem was .. i was getting API not the old data ... so that was a great problem for us ! 
 
 On 10/6/26 We wanted to drop the project and But this was not our style ! we started again... so this is finnaly day 1 for us .. by reading multiple Reasearch paper we figure it out what will our yield for this project .. ! 
+
+On 11/06/2026
+Tanishq worked on the yield formula and created documentation for a better understanding of yield.
+
+Akshat read more research papers related to the project and gained a better understanding of the formulas and factors affecting crops.
+
+Radhika designed the architecture to integrate APIs with historical data. She also reviewed research papers and concluded that weather, soil, and temperature are major factors affecting crop yield.
