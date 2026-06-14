@@ -8,3 +8,10 @@ Tanishq worked on the yield formula and created documentation for a better under
 Akshat read more research papers related to the project and gained a better understanding of the formulas and factors affecting crops.
 
 Radhika designed the architecture to integrate APIs with historical data. She also reviewed research papers and concluded that weather, soil, and temperature are major factors affecting crop yield.
+
+
+
+14/06
+tanishq made python web app for project, it's only structure also walked on mandi price data 
+Akshat worked on data collection, (Mandi price )
+Radhika also worked on data collection part of Mandi price 
